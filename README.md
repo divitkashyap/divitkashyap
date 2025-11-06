@@ -1,7 +1,7 @@
 ## Hey there, I'm Divit 🤷🏻‍♂️
 
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourprofile)
-[![Website](https://img.shields.io/badge/WEBSITE-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divitkashyap)
+[![Website](https://img.shields.io/badge/WEBSITE-FF6B00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://divitkashyap.dev)
 
 🎓 **Studying Computer Science at the University of Bristol** <br/>
 💡 **Learning about:** Machine Learning, Computer Graphics, Computer Vision, and Lambda Calculus <br/>
