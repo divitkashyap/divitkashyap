@@ -22,4 +22,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Profile Views](https://komarev.com/ghpvc/?username=divitkashyap&color=orange)
+![Profile Views](https://komarev.com/ghpvc/?username=divitkashyap&color=orange&style=for-the-badge)
